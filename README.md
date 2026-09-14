@@ -12,9 +12,9 @@ Measure the first two qubits.
 Apply X and Z corrections based on the measurement results.
 Simulate the circuit and visualize the measurement outcomes.
 # Tools
-Python
-Qiskit
-Qiskit Aer
+Python, 
+Qiskit,
+Qiskit Aer,
 Jupyter Notebook
 # Project Context
 A learning project exploring quantum circuits, quantum entanglement, measurement, and the implementation of quantum information protocols using Python.
